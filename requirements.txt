@@ -1,0 +1,15 @@
+# Use the PyTorch custom wheel index for CUDA packages
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch==2.4.1+cpu
+torchvision==0.19.1+cpu
+
+
+numpy==1.24.3
+scipy==1.10.1
+matplotlib==3.7.5
+pandas==2.0.3
+sympy==1.13.3
+networkx==3.1
+jinja2==3.1.6
+seaborn==0.13.2
+scikit-learn==1.3.2
