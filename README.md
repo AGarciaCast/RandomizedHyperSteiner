@@ -1,4 +1,4 @@
-# HyperbolicSteinerTrees
+# Randomized HyperSteiner
 This folder contains the code for the paper called **"Randomized HyperSteiner: A Stochastic Delaunay Triangulation Heuristic for the Hyperbolic Steiner Minimal Tree"**.
 
 # Abstract
