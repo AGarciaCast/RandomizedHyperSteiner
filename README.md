@@ -6,7 +6,7 @@ We study the problem of constructing Steiner Minimal Trees (SMTs) in hyperbolic 
 
 # Information
 - The code for the Randomized HyperSteiner method is in the exhaustiveMethod_global function in the following file: `src/exhaustiveMethod_global.py`. <br />
-- The experiments can be reproduced using `syntheticExperiments.ipynb` for *Centered Gaussian*, *Mixture of Gaussians Near Boundary*, and *Approaching the Theoretical Limit; `realExperiments.ipynb` for *Real Biological Data*; and `color_map_exp.py` for *Characterizing the Transition Zone*. <br />
+- The experiments can be reproduced using `syntheticExperiments.ipynb` for *Centered Gaussian*, *Mixture of Gaussians Near Boundary*, and *Approaching the Theoretical Limit*; `realExperiments.ipynb` for *Real Biological Data*; and `color_map_exp.py` for *Characterizing the Transition Zone*. <br />
 - The folder `Data` contains the hyperbolic representation of the Planaria dataset in the Klein-Beltrami disk. This is used for the *Real Biological Data* experiment.
 
 
